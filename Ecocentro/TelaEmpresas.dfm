@@ -1,0 +1,86 @@
+object frmEmpresas: TfrmEmpresas
+  Left = 0
+  Top = 0
+  Caption = 'Empresas'
+  ClientHeight = 442
+  ClientWidth = 628
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  ScreenSnap = True
+  TextHeight = 15
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 628
+    Height = 442
+    Align = alClient
+    TabOrder = 0
+    object LbEmpresas: TLabel
+      Left = 24
+      Top = 19
+      Width = 45
+      Height = 17
+      Caption = 'Empresa'
+      ParentShowHint = False
+      ShowHint = False
+      StyleName = 'Windows'
+    end
+    object LbUF: TLabel
+      Left = 55
+      Top = 50
+      Width = 14
+      Height = 15
+      Caption = 'UF'
+      ParentShowHint = False
+      ShowHint = False
+      StyleName = 'Windows'
+    end
+    object LbCNPJ: TLabel
+      Left = 42
+      Top = 79
+      Width = 27
+      Height = 15
+      Caption = 'CNPJ'
+      ParentShowHint = False
+      ShowHint = False
+      StyleName = 'Windows'
+    end
+    object edEmpresa: TEdit
+      Left = 75
+      Top = 13
+      Width = 158
+      Height = 23
+      TabOrder = 0
+      TextHint = 'Insira o nome da empresa'
+    end
+    object edUF: TEdit
+      Left = 75
+      Top = 42
+      Width = 158
+      Height = 23
+      ImeName = 'Portuguese (Brazilian ABNT)'
+      TabOrder = 1
+      TextHint = 'Insira a UF da empresa'
+    end
+    object CNPJ: TEdit
+      Left = 75
+      Top = 71
+      Width = 158
+      Height = 23
+      TabOrder = 2
+      TextHint = 'Insira o CNPJ da empresa'
+    end
+    object btnInserir: TButton
+      Left = 158
+      Top = 112
+      Width = 75
+      Height = 25
+      Caption = 'Inserir'
+      TabOrder = 3
+    end
+  end
+end

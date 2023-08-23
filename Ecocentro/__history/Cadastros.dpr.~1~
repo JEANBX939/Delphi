@@ -1,0 +1,18 @@
+program Cadastros;
+
+uses
+  Vcl.Forms,
+  TelaPrincipal in 'TelaPrincipal.pas' {Form1},
+  TelaEmpresas in 'TelaEmpresas.pas' {frmEmpresas},
+  TelaClientes in 'TelaClientes.pas' {frmClientes};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TfrmEmpresas, frmEmpresas);
+  Application.CreateForm(TfrmClientes, frmClientes);
+  Application.Run;
+end.
