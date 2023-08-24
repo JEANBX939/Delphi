@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/21 20:35:38.000.400,=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/21 21:02:22.000.320,=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/08/21 21:03:21.000.506,C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaPrincipal.pas</Transaction>
+    <Transaction>2023/08/21 21:03:21.000.506,C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaPrincipal.dfm</Transaction>
+    <Transaction>2023/08/21 21:03:29.000.221,C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaEmpresas.pas</Transaction>
+    <Transaction>2023/08/21 21:03:29.000.221,C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaEmpresas.dfm</Transaction>
+    <Transaction>2023/08/21 21:03:38.000.688,=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/08/21 21:03:46.000.247,C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaClientes.dfm</Transaction>
+    <Transaction>2023/08/21 21:03:46.000.247,C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaClientes.pas</Transaction>
+    <Transaction>2023/08/21 21:06:54.000.479,C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaPrincipal.dfm=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\Cadastros.dfm</Transaction>
+    <Transaction>2023/08/21 21:06:54.000.479,C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaPrincipal.pas=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\Cadastros.pas</Transaction>
+    <Transaction>2023/08/21 21:07:02.000.405,C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaClientes.pas=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\TelaClientes.pas</Transaction>
+    <Transaction>2023/08/21 21:07:02.000.405,C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaClientes.dfm=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\TelaClientes.dfm</Transaction>
+    <Transaction>2023/08/21 21:07:03.000.515,C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaEmpresas.dfm=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\TelaEmpresas.dfm</Transaction>
+    <Transaction>2023/08/21 21:07:03.000.515,C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\TelaEmpresas.pas=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\TelaEmpresas.pas</Transaction>
+    <Transaction>2023/08/21 21:07:24.000.960,C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\Cadastros.dfm=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\TelaPrincipal.dfm</Transaction>
+    <Transaction>2023/08/21 21:07:24.000.960,C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\Cadastros.pas=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\TelaPrincipal.pas</Transaction>
+    <Transaction>2023/08/21 21:07:33.000.993,C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\Cadastros.dproj</Transaction>
+    <Transaction>2023/08/22 12:34:01.000.907,=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\Unit1.pas</Transaction>
+    <Transaction>2023/08/22 12:35:16.000.279,C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\Unit1.dfm=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\TelaPesquisaClientes.dfm</Transaction>
+    <Transaction>2023/08/22 12:35:16.000.279,C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\Unit1.pas=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\TelaPesquisaClientes.pas</Transaction>
+    <Transaction>2023/08/22 14:33:44.000.050,=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\Unit1.pas</Transaction>
+    <Transaction>2023/08/22 14:34:56.000.688,C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\TelaPesquisaEmpresas.dfm=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\Unit1.dfm</Transaction>
+    <Transaction>2023/08/22 14:34:56.000.688,C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\TelaPesquisaEmpresas.pas=C:\Users\jeanv\OneDrive\Documentos\Embarcadero\Studio\Projects\Ecocentro\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
